@@ -1,0 +1,4 @@
+2026-10-29 21:22:39,322 - INFO - Отправка запроса к API...
+2026-10-29 21:22:39,323 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-29 21:22:44,800 - DEBUG - https://dummyjson.com:443 "POST /products/add HTTP/1.1" 201 29
+2026-10-29 21:22:44,800 - INFO - Статус-код -201. Ресурс успешно создан
