@@ -1,0 +1,204 @@
+2026-10-30 23:41:59,504 - INFO - Пользователь с id - None выбрал Обновить данные 
+2026-10-30 23:42:07,033 - INFO - Пользователь ввел 1 и выбрал Авторизация
+2026-10-30 23:42:07,036 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-30 23:42:07,789 - DEBUG - https://dummyjson.com:443 "POST /user/login HTTP/1.1" 200 None
+2026-10-30 23:42:07,791 - INFO - Авторизация прошла успешно
+2026-10-30 23:42:07,791 - INFO - ID пользователя: 1
+2026-10-30 23:42:07,791 - INFO - Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJlbWlseXMiLCJlbWFpbCI6ImVtaWx5LmpvaG5zb25AeC5kdW1teWpzb24uY29tIiwiZmlyc3ROYW1lIjoiRW1pbHkiLCJsYXN0TmFtZSI6IkpvaG5zb24iLCJnZW5kZXIiOiJmZW1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2VtaWx5cy8xMjgiLCJpYXQiOjE3OTMzOTI5MjgsImV4cCI6MTc5MzM5NDcyOH0.qFfuEB_tc_8uPbWVV5p0upa8Xt36ChF9redboCj6QGo
+2026-10-30 23:42:09,420 - INFO - Пользователь с id - 1 выбрал Обновить данные 
+2026-10-30 23:42:18,854 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-30 23:42:19,532 - DEBUG - https://dummyjson.com:443 "PUT /users/1 HTTP/1.1" 200 None
+2026-10-30 23:42:25,173 - INFO - Пользователь с id - 1 выбрал Обновить данные 
+2026-10-30 23:43:10,525 - INFO - Работа программы завершена
+2026-10-30 23:43:20,942 - INFO - Пользователь ввел 1 и выбрал Авторизация
+2026-10-30 23:43:20,943 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-30 23:43:21,609 - DEBUG - https://dummyjson.com:443 "POST /user/login HTTP/1.1" 200 None
+2026-10-30 23:43:21,610 - INFO - Авторизация прошла успешно
+2026-10-30 23:43:21,610 - INFO - ID пользователя: 1
+2026-10-30 23:43:21,610 - INFO - Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJlbWlseXMiLCJlbWFpbCI6ImVtaWx5LmpvaG5zb25AeC5kdW1teWpzb24uY29tIiwiZmlyc3ROYW1lIjoiRW1pbHkiLCJsYXN0TmFtZSI6IkpvaG5zb24iLCJnZW5kZXIiOiJmZW1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2VtaWx5cy8xMjgiLCJpYXQiOjE3OTMzOTMwMDEsImV4cCI6MTc5MzM5NDgwMX0.PHHCsn1xn-9erghmyaAAtHdLjBHDW7Z5zY5cyQE0u4E
+2026-10-30 23:43:22,918 - INFO - Пользователь с id - 1 выбрал Обновить данные 
+2026-10-30 23:43:33,451 - INFO - Пользователь с id - 1 выбрал Обновить данные 
+2026-10-30 23:43:40,162 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-30 23:43:40,767 - DEBUG - https://dummyjson.com:443 "PUT /users/1 HTTP/1.1" 200 None
+2026-10-30 23:49:36,495 - INFO - Работа программы завершена
+2026-10-30 23:50:30,362 - INFO - Пользователь ввел 1 и выбрал Авторизация
+2026-10-30 23:50:30,364 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-30 23:50:31,123 - DEBUG - https://dummyjson.com:443 "POST /user/login HTTP/1.1" 200 None
+2026-10-30 23:50:31,125 - INFO - Авторизация прошла успешно
+2026-10-30 23:50:31,125 - INFO - ID пользователя: 1
+2026-10-30 23:50:33,088 - INFO - Пользователь с id - 1 выбрал Обновить данные 
+2026-10-30 23:50:39,454 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-30 23:50:40,108 - DEBUG - https://dummyjson.com:443 "PUT /users/1 HTTP/1.1" 200 None
+2026-10-30 23:59:04,323 - INFO - Работа программы завершена
+2026-10-30 23:59:13,519 - INFO - Пользователь ввел 1 и выбрал Авторизация
+2026-10-30 23:59:13,521 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-30 23:59:14,286 - DEBUG - https://dummyjson.com:443 "POST /user/login HTTP/1.1" 200 None
+2026-10-30 23:59:14,289 - INFO - Авторизация прошла успешно
+2026-10-30 23:59:14,289 - INFO - ID пользователя: 1
+2026-10-30 23:59:16,181 - INFO - Пользователь с id - 1 выбрал Обновить данные 
+2026-10-30 23:59:27,317 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-30 23:59:27,953 - DEBUG - https://dummyjson.com:443 "PUT /users/1 HTTP/1.1" 200 None
+2026-10-31 00:13:41,337 - INFO - Пользователь с id - 1 выбрал Обновить данные 
+2026-10-31 00:13:59,191 - INFO - Пользователь с id - 1 выбрал Обновить данные 
+2026-10-31 00:14:16,190 - INFO - Пользователь ввел имя. Некорректный ввод
+2026-10-31 00:14:19,159 - INFO - Пользователь ввел вап. Некорректный ввод
+2026-10-31 00:14:23,413 - INFO - Пользователь с id - 1 выбрал Обновить данные 
+2026-10-31 00:14:34,487 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:14:35,181 - DEBUG - https://dummyjson.com:443 "PUT /users/1 HTTP/1.1" 200 None
+2026-10-31 00:18:30,327 - INFO - Работа программы завершена
+2026-10-31 00:22:45,814 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 1
+2026-10-31 00:22:45,815 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:22:46,505 - DEBUG - https://dummyjson.com:443 "GET /users/1 HTTP/1.1" 200 None
+2026-10-31 00:23:38,611 - INFO - Работа программы завершена
+2026-10-31 00:23:59,450 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id q
+2026-10-31 00:23:59,450 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:24:00,095 - DEBUG - https://dummyjson.com:443 "GET /users/q HTTP/1.1" 400 33
+2026-10-31 00:24:00,095 - ERROR - Ошибка при обращении к данным пользователя: 400 Client Error: Bad Request for url: https://dummyjson.com/users/q
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Temp\ipykernel_21972\594857158.py", line 112, in check_users
+    response.raise_for_status()
+  File "C:\Users\User\AppData\Local\Python\pythoncore-3.12-64\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://dummyjson.com/users/q
+2026-10-31 00:24:02,807 - INFO - Работа программы завершена
+2026-10-31 00:24:17,792 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 2
+2026-10-31 00:24:17,793 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:24:18,456 - DEBUG - https://dummyjson.com:443 "GET /users/2 HTTP/1.1" 200 None
+2026-10-31 00:28:36,287 - INFO - Работа программы завершена
+2026-10-31 00:28:55,746 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 1
+2026-10-31 00:28:55,747 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:28:56,353 - DEBUG - https://dummyjson.com:443 "GET /users/1 HTTP/1.1" 200 None
+2026-10-31 00:29:12,707 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id q
+2026-10-31 00:29:12,708 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:29:13,367 - DEBUG - https://dummyjson.com:443 "GET /users/q HTTP/1.1" 400 33
+2026-10-31 00:29:13,368 - ERROR - Ошибка при обращении к данным пользователя: 400 Client Error: Bad Request for url: https://dummyjson.com/users/q
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Temp\ipykernel_21972\812393007.py", line 112, in check_users
+    response.raise_for_status()
+  File "C:\Users\User\AppData\Local\Python\pythoncore-3.12-64\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://dummyjson.com/users/q
+2026-10-31 00:29:24,878 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 1
+2026-10-31 00:29:24,879 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:29:25,507 - DEBUG - https://dummyjson.com:443 "GET /users/1 HTTP/1.1" 200 None
+2026-10-31 00:33:17,650 - INFO - Работа программы завершена
+2026-10-31 00:34:58,592 - INFO - Работа программы завершена
+2026-10-31 00:36:20,759 - INFO - Работа программы завершена
+2026-10-31 00:36:25,290 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id q
+2026-10-31 00:36:25,291 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:36:26,012 - DEBUG - https://dummyjson.com:443 "GET /users/q HTTP/1.1" 400 33
+2026-10-31 00:36:26,013 - ERROR - Ошибка при обращении к данным пользователя: 400 Client Error: Bad Request for url: https://dummyjson.com/users/q
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Temp\ipykernel_21972\3554480040.py", line 112, in check_users
+    response.raise_for_status()
+  File "C:\Users\User\AppData\Local\Python\pythoncore-3.12-64\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://dummyjson.com/users/q
+2026-10-31 00:37:26,530 - INFO - Работа программы завершена
+2026-10-31 00:37:30,697 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 3
+2026-10-31 00:37:30,699 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:37:31,298 - DEBUG - https://dummyjson.com:443 "GET /users/3 HTTP/1.1" 200 None
+2026-10-31 00:37:49,801 - INFO - Работа программы завершена
+2026-10-31 00:37:54,426 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 3
+2026-10-31 00:37:54,427 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:37:55,085 - DEBUG - https://dummyjson.com:443 "GET /users/3 HTTP/1.1" 200 None
+2026-10-31 00:38:43,380 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 3
+2026-10-31 00:38:43,381 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:38:44,050 - DEBUG - https://dummyjson.com:443 "GET /users/3 HTTP/1.1" 200 None
+2026-10-31 00:38:49,512 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id q
+2026-10-31 00:38:49,514 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:38:50,168 - DEBUG - https://dummyjson.com:443 "GET /users/q HTTP/1.1" 400 33
+2026-10-31 00:38:50,169 - ERROR - Ошибка при обращении к данным пользователя: 400 Client Error: Bad Request for url: https://dummyjson.com/users/q
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Temp\ipykernel_21972\322622465.py", line 112, in check_users
+    response.raise_for_status()
+  File "C:\Users\User\AppData\Local\Python\pythoncore-3.12-64\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://dummyjson.com/users/q
+2026-10-31 00:40:39,235 - INFO - Работа программы завершена
+2026-10-31 00:40:45,449 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 3
+2026-10-31 00:40:45,450 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:40:46,075 - DEBUG - https://dummyjson.com:443 "GET /users/3 HTTP/1.1" 200 None
+2026-10-31 00:40:53,003 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id q
+2026-10-31 00:40:53,003 - ERROR - Ошибка обработки ответа сервера: invalid literal for int() with base 10: 'q'
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Temp\ipykernel_21972\2872274816.py", line 110, in check_users
+    if int(user_id):
+       ^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'q'
+2026-10-31 00:41:10,809 - INFO - Работа программы завершена
+2026-10-31 00:41:49,351 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 2
+2026-10-31 00:41:49,352 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:41:50,082 - DEBUG - https://dummyjson.com:443 "GET /users/2 HTTP/1.1" 200 None
+2026-10-31 00:41:54,876 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id й
+2026-10-31 00:41:54,878 - ERROR - Ошибка обработки ответа сервера: invalid literal for int() with base 10: 'й'
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Temp\ipykernel_21972\1653027599.py", line 110, in check_users
+    if int(user_id):
+       ^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'й'
+2026-10-31 00:43:04,796 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id й
+2026-10-31 00:43:04,796 - ERROR - Ошибка обработки ответа сервера: invalid literal for int() with base 10: 'й'
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Temp\ipykernel_21972\1653027599.py", line 110, in check_users
+    if int(user_id):
+       ^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'й'
+2026-10-31 00:43:10,307 - INFO - Работа программы завершена
+2026-10-31 00:43:18,573 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 3
+2026-10-31 00:43:18,574 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:43:19,216 - DEBUG - https://dummyjson.com:443 "GET /users/3 HTTP/1.1" 200 None
+2026-10-31 00:43:31,839 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id f
+2026-10-31 00:44:01,442 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 3
+2026-10-31 00:44:01,443 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:44:02,049 - DEBUG - https://dummyjson.com:443 "GET /users/3 HTTP/1.1" 200 None
+2026-10-31 00:44:06,972 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id r
+2026-10-31 00:44:06,972 - ERROR - Ошибка обработки ответа сервера: invalid literal for int() with base 10: 'r'
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Temp\ipykernel_21972\3260930318.py", line 110, in check_users
+    if int(user_id):
+       ^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'r'
+2026-10-31 00:44:17,993 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 5
+2026-10-31 00:44:17,995 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:44:18,625 - DEBUG - https://dummyjson.com:443 "GET /users/5 HTTP/1.1" 200 None
+2026-10-31 00:44:33,220 - INFO - Пользователь ввел 1 и выбрал Авторизация
+2026-10-31 00:44:33,221 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:44:33,822 - DEBUG - https://dummyjson.com:443 "POST /user/login HTTP/1.1" 200 None
+2026-10-31 00:44:33,825 - INFO - Авторизация прошла успешно
+2026-10-31 00:44:33,825 - INFO - ID пользователя: 1
+2026-10-31 00:44:39,162 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 1
+2026-10-31 00:44:39,163 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:44:39,820 - DEBUG - https://dummyjson.com:443 "GET /users/1 HTTP/1.1" 200 None
+2026-10-31 00:44:48,398 - INFO - Пользователь с id - 1 выбрал Обновить данные 
+2026-10-31 00:44:56,269 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:44:56,944 - DEBUG - https://dummyjson.com:443 "PUT /users/1 HTTP/1.1" 200 None
+2026-10-31 00:44:59,634 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 1
+2026-10-31 00:44:59,636 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 00:45:01,461 - DEBUG - https://dummyjson.com:443 "GET /users/1 HTTP/1.1" 200 None
+2026-10-31 00:45:22,458 - INFO - Пользователь ввел й. Некорректный ввод
+2026-10-31 00:45:24,286 - INFO - Работа программы завершена
+2026-10-31 01:26:48,564 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id 2
+2026-10-31 01:26:48,564 - INFO - Поиск пользователя с id - 2. Обращение к API ...
+2026-10-31 01:26:48,565 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 01:26:49,308 - DEBUG - https://dummyjson.com:443 "GET /users/2 HTTP/1.1" 200 None
+2026-10-31 01:26:49,308 - INFO - Обращение выполнено успешно. Пользователь найден.
+2026-10-31 01:26:53,918 - INFO - Пользователь ввел 3 и выбрал Получение данных пользователя с id а
+2026-10-31 01:26:53,918 - ERROR - Ошибка обработки ответа сервера: invalid literal for int() with base 10: 'а'
+2026-10-31 01:27:03,581 - INFO - Пользователь ввел й. Некорректный ввод
+2026-10-31 01:27:08,240 - INFO - Пользователь ввел 1 и выбрал Авторизация
+2026-10-31 01:27:14,883 - INFO - Авторизация пользователя emilys. Обращение к API ...
+2026-10-31 01:27:14,883 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 01:27:15,561 - DEBUG - https://dummyjson.com:443 "POST /user/login HTTP/1.1" 200 None
+2026-10-31 01:27:15,565 - INFO - Авторизация прошла успешно
+2026-10-31 01:27:15,565 - INFO - ID пользователя: 1
+2026-10-31 01:27:19,002 - INFO - Пользователь с id - 1 выбрал Обновить данные 
+2026-10-31 01:27:22,972 - INFO - Пользователь обновляет имя 
+2026-10-31 01:27:27,402 - INFO - Пользователь обновляет Имя на Кирилл 
+2026-10-31 01:27:27,402 - INFO - Обновление данных пользователя. Обращение к API ...
+2026-10-31 01:27:27,403 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-10-31 01:27:28,062 - DEBUG - https://dummyjson.com:443 "PUT /users/1 HTTP/1.1" 200 None
+2026-10-31 01:27:28,062 - INFO - Запрос обновления данных выполнен успешно. Данные в разделе имя обновлены.
+Новые данные: Кирилл
+2026-10-31 01:27:32,054 - INFO - Пользователь ввел й. Некорректный ввод
+2026-10-31 01:27:34,373 - INFO - Работа программы завершена
