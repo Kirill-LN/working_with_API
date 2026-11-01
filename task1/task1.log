@@ -1,32 +1,4 @@
-2026-10-27 23:38:16,970 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
-2026-10-27 23:38:17,581 - DEBUG - https://dummyjson.com:443 "GET /products?limit=10&skip=10&sort=price&order=desc HTTP/1.1" 200 None
-2026-10-27 23:38:17,582 - INFO - Отправка запроса к API...
-2026-10-27 23:38:17,582 - INFO - Статус-код запроса 200
-2026-10-27 23:43:11,239 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
-2026-10-27 23:43:12,019 - DEBUG - https://dummyjson.com:443 "GET /products?limit=10&skip=10&sort=price&order=desc HTTP/1.1" 200 None
-2026-10-27 23:43:12,020 - INFO - Отправка запроса к API...
-2026-10-27 23:43:12,021 - INFO - Статус-код запроса 200
-2026-10-28 00:04:21,679 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
-2026-10-28 00:04:22,500 - DEBUG - https://dummyjson.com:443 "GET /products?limit=10&skip=10&sort=price&order=desc HTTP/1.1" 200 None
-2026-10-28 00:04:22,502 - INFO - Отправка запроса к API...
-2026-10-28 00:04:22,502 - INFO - Статус-код ответа: 200
-2026-10-28 00:05:41,343 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
-2026-10-28 00:05:41,907 - DEBUG - https://dummyjson.com:443 "GET /products?limit=10&skip=10&sort=price&order=desc HTTP/1.1" 200 None
-2026-10-28 00:05:41,908 - INFO - Отправка запроса к API...
-2026-10-28 00:05:41,908 - INFO - Статус-код ответа: 200
-2026-10-28 00:07:46,118 - INFO - Отправка запроса к API...
-2026-10-28 00:07:46,119 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
-2026-10-28 00:07:46,680 - DEBUG - https://dummyjson.com:443 "GET /products?limit=10&skip=10&sort=price&order=desc HTTP/1.1" 200 None
-2026-10-28 00:07:46,681 - INFO - Статус-код ответа: 200
-2026-10-28 00:08:29,100 - INFO - Отправка запроса к API...
-2026-10-28 00:08:29,100 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
-2026-10-28 00:08:29,653 - DEBUG - https://dummyjson.com:443 "GET /products?limit=10&skip=10&sortBy=price&order=desc HTTP/1.1" 200 None
-2026-10-28 00:08:29,654 - INFO - Статус-код ответа: 200
-2026-10-28 00:09:58,927 - INFO - Отправка запроса к API...
-2026-10-28 00:09:58,928 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
-2026-10-28 00:09:59,582 - DEBUG - https://dummyjson.com:443 "GET /products?limit=10&skip=10&sortBy=price&order=desc HTTP/1.1" 200 None
-2026-10-28 00:09:59,582 - INFO - Статус-код ответа: 200
-2026-10-28 00:13:13,043 - INFO - Отправка запроса к API...
-2026-10-28 00:13:13,044 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
-2026-10-28 00:13:13,623 - DEBUG - https://dummyjson.com:443 "GET /products?limit=10&skip=10&sortBy=price&order=desc HTTP/1.1" 200 None
-2026-10-28 00:13:13,623 - INFO - Статус-код ответа: 200
+2026-11-01 21:41:45,762 - INFO - Отправка запроса к API...
+2026-11-01 21:41:45,763 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-11-01 21:41:46,384 - DEBUG - https://dummyjson.com:443 "GET /products?limit=10&skip=10&sortBy=price&order=desc HTTP/1.1" 200 None
+2026-11-01 21:41:46,385 - INFO - Статус-код ответа: 200
